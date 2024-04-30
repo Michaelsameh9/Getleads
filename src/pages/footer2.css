@@ -1,0 +1,182 @@
+.fotr {
+    background-color: #EFF1F4;
+    padding: 1% 6%;
+}
+
+.icon-3 {
+    padding-left: 35%;
+    padding-top: 5%;
+}
+
+.p-ftr {
+    font-size: 16px;
+    font-weight: 500;
+    color: #69696E;
+    padding-top: 5%;
+
+}
+
+.p-ftr2 {
+    font-size: 17px;
+    color: #69696E;
+
+
+}
+
+.p-fotr {
+    width: 95%;
+    margin-left: 11%;
+}
+
+.logo-ftr {
+    background-image: url(./../Images/logo\ black.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+
+@media (min-width: 300px)and (max-width: 480px) {
+    .logo-ftr {
+        width: 75%;
+        height: 7vh;
+        margin-top: 12%;
+        margin-left: 25%;
+    }
+
+    .p-fotr {
+        width: 100%;
+        margin-left: 7%;
+    }
+
+    .p-ftr {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .p-ftr2 {
+        font-size: 14px;
+        color: #69696E;
+        width: 102%;
+    }
+
+    img,
+    svg {
+        margin: 2%;
+    }
+
+    .icon-3 {
+        padding-left: 27%;
+        margin-bottom: 15%;
+    }
+
+}
+
+@media (min-width: 481px)and (max-width: 768px) {
+    .logo-ftr {
+        width: 62%;
+        height: 7vh;
+        margin-top: 12%;
+        margin-left: 38%;
+    }
+
+    .p-fotr {
+        width: 100%;
+        margin-left: 5%;
+    }
+
+    .p-ftr {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .p-ftr2 {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    img,
+    svg {
+        margin: 2%;
+    }
+
+    .icon-3 {
+        padding-left: 34%;
+        margin-bottom: 15%;
+    }
+
+
+}
+
+@media (min-width: 769px)and (max-width: 1024px) {
+    .logo-ftr {
+        width: 94%;
+        height: 7vh;
+        margin-top: 12%;
+        margin-left: 2%;
+    }
+
+    .p-fotr {
+        width: 100%;
+        margin-left: 5%;
+    }
+
+    .p-ftr {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .p-ftr2 {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    img,
+    svg {
+        margin: 2%;
+    }
+
+    .icon-3 {
+        padding-left: 5%;
+        margin-bottom: 10%;
+    }
+}
+
+@media (min-width: 1025px)and (max-width: 1200px) {
+    .logo-ftr {
+        width: 73%;
+        height: 7vh;
+        margin-top: 17%;
+        margin-left: 9%;
+        display: flex;
+    }
+
+    .p-fotr {
+        width: 100%;
+        margin-left: 5%;
+        margin-top: 3%;
+    }
+
+    .p-ftr {
+        font-size: 16px;
+        text-align: left;
+    }
+
+    .p-ftr2 {
+        font-size: 16px;
+        text-align: left;
+    }
+
+    img,
+    svg {
+        margin: 1%;
+    }
+
+    .icon-3 {
+        padding-left: 25%;
+        margin-bottom: 0%;
+        margin-top: 5%;
+    }
+
+}

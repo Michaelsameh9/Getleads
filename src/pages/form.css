@@ -1,0 +1,46 @@
+.form-sign {
+    margin-left: 30%;
+    margin-top: 10%;
+
+}
+
+.labe {
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #404039;
+}
+
+input {
+    width: 40%;
+    height: 50px;
+    background-color: #e8ebed;
+    border: 2px solid #e8ebed;
+    border-radius:9px;
+
+
+}
+
+input:focus {
+    background-color: white;
+    border-radius: 1%;
+    border: 1px solid #ccc;
+    box-shadow: none;
+
+}
+.btn-sin{
+    width: 40%;
+    height: 50px;
+    background-color: #439FE0;
+    border: 2px solid #439FE0;
+    color: white;
+    font-size: 18px;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border-radius: 9px;
+
+
+}
+.btn-sin:hover{
+    background-color: #1d83c9;;
+}

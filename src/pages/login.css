@@ -1,0 +1,142 @@
+.for-log {
+    padding-top: 13%;
+    margin-left: 35%;
+    margin-bottom: 7%;
+
+}
+
+.p-fom {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    margin: 0%;
+
+}
+
+.p-fom2 {
+    font-size: 13px;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #69696edb;
+    line-height: 30px;
+    font-weight: 550;
+
+}
+
+.fom-login {
+    width: 45%;
+    height: 50px;
+}
+
+a.a-fom {
+    text-decoration: none;
+    color: #69696edb;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.btn-logn {
+    color: white;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    width: 45%;
+    opacity: .8;
+    height: 45px;
+
+
+}
+
+@media (min-width: 300px)and (max-width: 480px) {
+    .for-log {
+        margin-top: 35%;
+        margin-left: 5%;
+    }
+
+    .fom-login {
+        width: 100%;
+    }
+
+    .form-label {
+        font-size: 12px;
+    }
+
+    label {
+        font-size: 14px;
+    }
+
+    .btn-logn {
+        width: 100%;
+    }
+}
+
+@media (min-width: 481px)and (max-width: 768px) {
+    .for-log {
+        margin-top: 25%;
+        margin-left: 5%;
+    }
+
+    .fom-login {
+        width: 100%;
+    }
+
+    .form-label {
+        font-size: 12px;
+    }
+
+    label {
+        font-size: 14px;
+    }
+
+    .btn-logn {
+        width: 100%;
+    }
+}
+
+@media (min-width: 769px)and (max-width: 1024px) {
+    .for-log {
+        margin-top: 10%;
+        margin-left: 5%;
+    }
+
+    .fom-login {
+        width: 100%;
+    }
+
+    .form-label {
+        font-size: 12px;
+    }
+
+    label {
+        font-size: 14px;
+    }
+
+    .btn-logn {
+        width: 100%;
+    }
+}
+
+@media (min-width: 1025px)and (max-width: 1200px) {
+    .for-log {
+        margin-top: 5%;
+        margin-left: 20%;
+    }
+
+    .fom-login {
+        width: 60%;
+    }
+
+    .form-label {
+        font-size: 14px;
+    }
+
+    label {
+        font-size: 16px;
+    }
+
+    .btn-logn {
+        width: 60%;
+    }
+
+}
+
